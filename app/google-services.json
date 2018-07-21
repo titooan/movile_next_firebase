@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "639166856155",
+    "firebase_url": "https://movilenextpush-830bb.firebaseio.com",
+    "project_id": "movilenextpush-830bb",
+    "storage_bucket": "movilenextpush-830bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639166856155:android:42a1529035ead3a0",
+        "android_client_info": {
+          "package_name": "com.titouan.next.firebasemovilenext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639166856155-v0f0rllsuq45ead72nhhndmiq1k93jm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfEu_VIQpayxXnq6MPmzC4uav5Jy222ic"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
